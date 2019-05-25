@@ -4,7 +4,7 @@ h1 {
   color: yellow;
 }
 body {
-  background-color: ##F9E8E7;
+  background-color: #F9E8E7;
   border-color: red;
   margin: 0;
   padding-top: 50px;
@@ -21,7 +21,7 @@ header {
   width: 100%;
   box-sizing: border-box;
 }
-header.logo-top {
+.logo-top {
   color: #FFFFFF;
   height: 50px;
   line-height: 50px;
