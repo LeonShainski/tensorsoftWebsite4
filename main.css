@@ -59,7 +59,7 @@ header nav ul li a.active{
   line-height: 50px;
   font-size: 24px;
   cursor: pointer;
-  display: none;
+  display: block;
 }
 @media (max-width: 991px;)
 {
